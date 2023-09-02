@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about anything remotely interesting.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sindhuveerathu@gmail.com
 
 <!---
 Sindhu194/Sindhu194 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
