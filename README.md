@@ -73,11 +73,15 @@ Currently working on exploring more backend frameworks and dipping my toes in ma
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sindhu194&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sindhu194&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindhu194&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![GitHub stats](https://your-vercel-app.vercel.app/api?username=Sindhu194&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&show_icons=true&line_height=28&hide=prs,issues,contribs&total_commits=620&stars=58&repos=16)<br/>
+
+![GitHub Streak](https://your-vercel-app.vercel.app?user=Sindhu194&theme=shadow_green&hide_border=true&currStreakNum=22&longestStreak=42&totalContributions=680)<br/>
+
+![Top Languages](https://your-vercel-app.vercel.app/api/top-langs/?username=Sindhu194&theme=shadow_green&hide_border=true&layout=compact&langs_count=6)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Sindhu194&icon=0&color=0)](https://visitcount.itsvg.in)
 
